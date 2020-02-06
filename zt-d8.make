@@ -22,7 +22,8 @@ api = 2
 ;projects[] = drupal
 ; from https://omega8.cc/how-to-add-custom-platform-properly-140
 ; For Drupal 7:
-; Drupal 8 not yet available from aegirhttps://ftp.drupal.org/files/projects/drupal-8.3.4.tar.gz
+; Drupal 8 not yet available from aegir
+; https://ftp.drupal.org/files/projects/drupal-8.3.4.tar.gz
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 projects[drupal][download][url] = "https://www.drupal.org/download-latest/tar.gz"
