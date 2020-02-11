@@ -113,9 +113,11 @@ projects[] = multiupload_imagefield_widget
 projects[] = pathauto
 ; phplist disabled 20180811. Throws error 500 after php7.0 upgrade.
 ;projects[phplist][version] = "1.x-dev"
+projects[] = print
 projects[] = quant
 projects[] = recaptcha
 projects[] = rename_admin_paths
+projects[] = robotstxt
 projects[] = rules
 projects[] = schema
 projects[] = search404
