@@ -64,11 +64,13 @@ projects[civicrm][download][url] = "https://download.civicrm.org/civicrm-5.13.2-
 ;projects[admin_menu][version] = "3.0-rc5"
 
 
-;built into BOA
-;projects[] = advanced_help
+
+projects[] = advanced_help
+projects[] = admin
 projects[] = admin_menu
 projects[] = backup_migrate
 projects[] = biblio
+projects[] = block_class
 projects[] = ctools
 projects[] = captcha
 projects[] = chart
@@ -80,6 +82,7 @@ projects[] = countdown
 projects[] = customfilter
 projects[] = date
 projects[] = domain
+projects[] = domain_registration
 projects[] = devel
 projects[] = email
 projects[] = entity
@@ -102,12 +105,7 @@ projects[] = libraries
 projects[] = link
 projects[] = logintoboggan
 projects[mail_edit][version] = "1.x-dev"
-; v.2.10 throws Ajax errors and doesn't process right.
-; no longer need. Using Roundcube for mail archives
-; projects[mailhandler][version] = "2.8"
-projects[] = module_filter
-; mollom no longer maintained
-;projects[] = mollom
+projects[] = menu_block
 projects[] = multiupload_filefield_widget
 projects[] = multiupload_imagefield_widget
 projects[] = pathauto
