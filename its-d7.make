@@ -76,6 +76,7 @@ projects[] = captcha
 projects[] = chart
 ;not needed with aegir
 ;projects[] = civicrm_cron
+projects[] = ckeditor
 projects[] = colorbox
 projects[] = computed_field
 projects[] = countdown
