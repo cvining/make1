@@ -135,6 +135,7 @@ projects[] = token
 ; built into aegir
 ;projects[] = update
 projects[] = url
+projects[] = user_mailman_register
 projects[] = user_restrictions
 projects[] = userdelete
 projects[] = usermerge
