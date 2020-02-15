@@ -116,6 +116,7 @@ projects[] = print
 projects[] = quant
 projects[] = recaptcha
 projects[] = rename_admin_paths
+projects[] = reroute_email
 projects[] = robotstxt
 projects[] = rules
 projects[] = schema
