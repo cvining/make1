@@ -1,3 +1,4 @@
+: 20200902 d7.72.1 & civicrm-5.28.4 
 : 20200206 d7.69.1 & civicrm-5.13.2
 ; 20200206 moved to github
 ; 20190508 d7.67.1 & civicrm-5.13.2
@@ -43,14 +44,14 @@ api = 2
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 ; projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.59.1.tar.gz"
-projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.69.1.tar.gz"
+projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.72.1.tar.gz"
 ; from https://github.com/omega8cc/boa/blob/master/aegir/makefiles/civicrm-4.5-d7.make
 
 projects[civicrm][type] = "module"
 projects[civicrm][directory_name] = "civicrm"
 projects[civicrm][download][type] = "get"
 ;projects[civicrm][download][url] = "http://sourceforge.net/projects/civicrm/files/civicrm-stable/4.7.31/civicrm-4.7.31-drupal.tar.gz/download?use_mirror=autoselect"
-projects[civicrm][download][url] = "https://download.civicrm.org/civicrm-5.13.2-drupal.tar.gz"
+projects[civicrm][download][url] = "https://download.civicrm.org/civicrm-5.28.4-drupal.tar.gz"
 
 
 ;projects[civicrml10n][type] = "module"
