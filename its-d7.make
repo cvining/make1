@@ -108,6 +108,7 @@ projects[] = link
 projects[] = logintoboggan
 projects[mail_edit][version] = "1.x-dev"
 ;projects[] = menu_block
+projects[] = module_filter
 projects[] = multiupload_filefield_widget
 projects[] = multiupload_imagefield_widget
 projects[] = pathauto
