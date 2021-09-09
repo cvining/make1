@@ -1,3 +1,4 @@
+; 20210909 d7.82.1
 ; 20210106 d7.77.1
 ; remove google_recaptcha, replace with captcha and recaptcha
 ; google_recaptcha module must currently be moved by hand from previously hacked version
@@ -32,7 +33,7 @@ api = 2
 ; For Drupal 7:
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.77.1.tar.gz"
+projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.82.1.tar.gz"
 
 ; Modules
 projects[] = advanced_help
