@@ -1,3 +1,4 @@
+: 20210909 rem layout
 ; 20200130 d8.8.1 moved to git
 ; 20200114 d8.8.1
 ; 20190228 d8.6.10
@@ -52,7 +53,6 @@ projects[] = ctools
 projects[] = ds
 projects[] = entity
 projects[] = google_analytics
-projects[] = layout_plugin
 projects[] = libraries
 projects[] = linked_field
 projects[] = metatag
