@@ -1,4 +1,4 @@
-; 20210909 based on d8.make
+; 20210909 d9 make file based on d8.make
 : 20200130 d8.8.1 moved to git
 ;
 core = 9.x
@@ -16,11 +16,6 @@ projects[drupal][download][url] = "https://www.drupal.org/download-latest/tar.gz
 
 
 ; Themes
-projects[] = adaptivetheme
-projects[] = at_tools
-projects[] = fusion
-projects[] = pixture_reloaded
-projects[] = corolla
 ; broken
 ;projects[] = mayo
 ;projects[] = business
@@ -28,33 +23,7 @@ projects[] = corolla
 ; Modules
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[] = addtoany
-projects[] = advanced_help
-;20200116
-projects[] = at_tools
-;20200116
-projects[] = countdown
-projects[] = ctools
-projects[] = ds
-projects[] = entity
-projects[] = google_analytics
-projects[] = layout_plugin
-projects[] = libraries
-projects[] = linked_field
-projects[] = metatag
-;20180207
-projects[] = module_filter
-;20200116
-projects[] = migrate_plus
-projects[] = pathauto
-projects[] = token
-;20180207
-projects[] = redirect
-projects[] = uiplog
-projects[] = video
-projects[] = video_embed_field
-projects[] = views_field_view
-projects[] = views_slideshow
+
 
 
 ; Libraries
