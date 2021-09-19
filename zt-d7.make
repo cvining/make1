@@ -1,4 +1,4 @@
-: 20210916 tinymce 4.9.11 must be installed under library by hand
+; 20210916 tinymce 4.9.11 must be installed under library by hand
 ; 20210909 d7.82.1
 ; 20210106 d7.77.1
 ; remove google_recaptcha, replace with captcha and recaptcha
@@ -137,9 +137,9 @@ libraries[superfish][type] = "library"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-: libraries[tinymce][download][type] = "get"
-: [tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11_jquery.zip"
-: [tinymce][download][url] = "https://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
+libraries[tinymce][download][type] = "get"
+; [tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11_jquery.zip"
+[tinymce][download][url] = "https://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
 libraries[tinymce][directory_name] = "tinymce"
 libraries[tinymce][type] = "library"
 
