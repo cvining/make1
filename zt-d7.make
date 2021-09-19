@@ -137,7 +137,7 @@ libraries[superfish][type] = "library"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-libraries[tinymce][download][type] = "get"
+libraries[tinymce][download][type] = "file"
 ; [tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11_jquery.zip"
 [tinymce][download][url] = "https://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
 libraries[tinymce][directory_name] = "tinymce"
