@@ -139,9 +139,7 @@ libraries[superfish][type] = "library"
 ; and url is the url of the download.
 libraries[tinymce][download][type] = "file"
 : [tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11_jquery.zip"
-
-[tinymce][download][url] = "http://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
-
+[tinymce][download][url] = "https://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
 libraries[tinymce][directory_name] = "tinymce"
 libraries[tinymce][type] = "library"
 
