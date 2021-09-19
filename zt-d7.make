@@ -1,3 +1,4 @@
+: 20210916 tinymce 4.9.11
 ; 20210909 d7.82.1
 ; 20210106 d7.77.1
 ; remove google_recaptcha, replace with captcha and recaptcha
@@ -139,7 +140,7 @@ libraries[superfish][type] = "library"
 libraries[tinymce][download][type] = "file"
 : [tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11_jquery.zip"
 
-[tinymce][download][url] = "https://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
+[tinymce][download][url] = "http://download.tiny.cloud/tinymce/community/tinymce_4.9.11.zip"
 
 libraries[tinymce][directory_name] = "tinymce"
 libraries[tinymce][type] = "library"
