@@ -74,6 +74,7 @@ projects[] = devel
 projects[] = email
 projects[] = entity
 ;projects[] = features
+projects[] = file_entity
 projects[] = filefield_paths
 ;Need the dev version
 ; 20151231 no longer needed. Using Roundcube for mail archives
